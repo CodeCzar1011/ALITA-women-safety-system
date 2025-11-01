@@ -1,0 +1,65 @@
+Opening in existing browser session.
+127.0.0.1 - - [01/Nov/2025 07:01:04] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [01/Nov/2025 07:01:04] "GET /css/style.css HTTP/1.1" 200 -
+127.0.0.1 - - [01/Nov/2025 07:01:04] "GET /WhatsApp%20Image%202025-11-01%20at%2004.02.12_b27562ff.jpg HTTP/1.1" 200 -
+127.0.0.1 - - [01/Nov/2025 07:01:04] "GET /woman-checkng-her-phone-alone-at-night.webp HTTP/1.1" 200 -
+127.0.0.1 - - [01/Nov/2025 07:01:04] "GET /js/script.js HTTP/1.1" 200 -
+127.0.0.1 - - [01/Nov/2025 07:01:05] code 404, message File not found
+127.0.0.1 - - [01/Nov/2025 07:01:05] "GET /favicon.ico HTTP/1.1" 404 -
+127.0.0.1 - - [01/Nov/2025 07:01:13] "GET /map.php HTTP/1.1" 200 -
+127.0.0.1 - - [01/Nov/2025 07:02:13] "GET /live.html HTTP/1.1" 200 -
+127.0.0.1 - - [01/Nov/2025 07:02:21] "GET /map.php HTTP/1.1" 200 -
+127.0.0.1 - - [01/Nov/2025 07:03:21] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [01/Nov/2025 07:04:18] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [01/Nov/2025 07:04:32] "GET /map.php HTTP/1.1" 304 -
+127.0.0.1 - - [01/Nov/2025 07:06:12] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [01/Nov/2025 07:06:24] "GET /Admin_location_panel.html HTTP/1.1" 200 -
+127.0.0.1 - - [01/Nov/2025 07:06:58] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [01/Nov/2025 07:06:59] code 404, message File not found
+127.0.0.1 - - [01/Nov/2025 07:06:59] "GET /favicon.ico HTTP/1.1" 404 -
+127.0.0.1 - - [01/Nov/2025 07:16:48] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [01/Nov/2025 07:16:49] code 404, message File not found
+127.0.0.1 - - [01/Nov/2025 07:16:49] "GET /favicon.ico HTTP/1.1" 404 -
+127.0.0.1 - - [01/Nov/2025 07:20:24] "GET /analytics.html HTTP/1.1" 200 -
+127.0.0.1 - - [01/Nov/2025 07:21:05] "GET /alerts.html HTTP/1.1" 200 -
+127.0.0.1 - - [01/Nov/2025 07:21:05] code 404, message File not found
+127.0.0.1 - - [01/Nov/2025 07:21:05] "GET /api/alerts HTTP/1.1" 404 -
+127.0.0.1 - - [01/Nov/2025 07:21:39] "GET /about.html HTTP/1.1" 200 -
+127.0.0.1 - - [01/Nov/2025 07:21:39] code 404, message File not found
+127.0.0.1 - - [01/Nov/2025 07:21:39] "GET /img/dev1.jpg HTTP/1.1" 404 -
+127.0.0.1 - - [01/Nov/2025 07:21:39] code 404, message File not found
+127.0.0.1 - - [01/Nov/2025 07:21:39] "GET /img/dev2.jpg HTTP/1.1" 404 -
+127.0.0.1 - - [01/Nov/2025 07:21:39] code 404, message File not found
+127.0.0.1 - - [01/Nov/2025 07:21:39] "GET /img/dev3.jpg HTTP/1.1" 404 -
+127.0.0.1 - - [01/Nov/2025 07:24:18] "GET /about.html HTTP/1.1" 200 -
+127.0.0.1 - - [01/Nov/2025 07:24:18] code 404, message File not found
+127.0.0.1 - - [01/Nov/2025 07:24:18] "GET /WhatsApp%20Image%202025-11-01%20at%2011.29.21_5f880306.jpg HTTP/1.1" 404 -
+127.0.0.1 - - [01/Nov/2025 07:24:18] code 404, message File not found
+127.0.0.1 - - [01/Nov/2025 07:24:18] "GET /img/dev2.jpg HTTP/1.1" 404 -
+127.0.0.1 - - [01/Nov/2025 07:24:18] "GET /css/style.css HTTP/1.1" 304 -
+127.0.0.1 - - [01/Nov/2025 07:24:18] code 404, message File not found
+127.0.0.1 - - [01/Nov/2025 07:24:18] "GET /img/dev3.jpg HTTP/1.1" 404 -
+127.0.0.1 - - [01/Nov/2025 07:24:21] "GET /about.html HTTP/1.1" 304 -
+127.0.0.1 - - [01/Nov/2025 07:24:21] code 404, message File not found
+127.0.0.1 - - [01/Nov/2025 07:24:21] "GET /WhatsApp%20Image%202025-11-01%20at%2011.29.21_5f880306.jpg HTTP/1.1" 404 -
+127.0.0.1 - - [01/Nov/2025 07:24:21] code 404, message File not found
+127.0.0.1 - - [01/Nov/2025 07:24:21] "GET /img/dev2.jpg HTTP/1.1" 404 -
+127.0.0.1 - - [01/Nov/2025 07:24:21] code 404, message File not found
+127.0.0.1 - - [01/Nov/2025 07:24:21] "GET /img/dev3.jpg HTTP/1.1" 404 -
+127.0.0.1 - - [01/Nov/2025 07:25:06] "GET /about.html HTTP/1.1" 304 -
+127.0.0.1 - - [01/Nov/2025 07:25:06] "GET /WhatsApp%20Image%202025-11-01%20at%2011.29.21_5f880306.jpg HTTP/1.1" 200 -
+127.0.0.1 - - [01/Nov/2025 07:25:06] code 404, message File not found
+127.0.0.1 - - [01/Nov/2025 07:25:06] "GET /img/dev2.jpg HTTP/1.1" 404 -
+127.0.0.1 - - [01/Nov/2025 07:25:06] code 404, message File not found
+127.0.0.1 - - [01/Nov/2025 07:25:06] "GET /img/dev3.jpg HTTP/1.1" 404 -
+127.0.0.1 - - [01/Nov/2025 07:25:07] "GET /about.html HTTP/1.1" 304 -
+127.0.0.1 - - [01/Nov/2025 07:25:07] code 404, message File not found
+127.0.0.1 - - [01/Nov/2025 07:25:07] "GET /img/dev2.jpg HTTP/1.1" 404 -
+127.0.0.1 - - [01/Nov/2025 07:25:07] code 404, message File not found
+127.0.0.1 - - [01/Nov/2025 07:25:07] "GET /img/dev3.jpg HTTP/1.1" 404 -
+127.0.0.1 - - [01/Nov/2025 07:25:38] "GET /about.html HTTP/1.1" 200 -
+127.0.0.1 - - [01/Nov/2025 07:25:38] code 404, message File not found
+127.0.0.1 - - [01/Nov/2025 07:25:38] "GET /img/dev2.jpg HTTP/1.1" 404 -
+127.0.0.1 - - [01/Nov/2025 07:25:38] "GET /WhatsApp%20Image%202025-11-01%20at%2011.33.37_a9ce8d48.jpg HTTP/1.1" 200 -
+127.0.0.1 - - [01/Nov/2025 07:30:10] "GET /about.html HTTP/1.1" 200 -
+127.0.0.1 - - [01/Nov/2025 07:30:10] "GET /WhatsApp%20Image%202025-11-01%20at%2012.59.03_433c58b3.jpg HTTP/1.1" 200 -
